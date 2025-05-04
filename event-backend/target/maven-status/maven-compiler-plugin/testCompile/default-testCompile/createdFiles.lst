@@ -1,0 +1,8 @@
+com\eventmanagement\controller\EventControllerTest.class
+com\eventmanagement\service\impl\BookingServiceImplTest.class
+com\eventmanagement\controller\UserControllerTest.class
+com\eventmanagement\controller\AuthControllerTest.class
+com\eventmanagement\controller\BookingControllerTest.class
+com\eventmanagement\controller\CategoryControllerTest.class
+com\eventmanagement\controller\PaymentControllerTest.class
+com\eventmanagement\service\impl\PaymentServiceImplTest.class
